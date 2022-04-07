@@ -1,0 +1,130 @@
+body {text-align: center;
+   margin:0;
+   font-family:"Merriweather", serif, sans-serif;
+   color: #40514E;
+
+}
+
+
+h1{  margin:50 auto 0 auto;
+  font-family: "sacramento";
+  font-size: 4em;
+  color: #E83A14;
+  }
+
+  h2{
+    color:#E83A14;
+    font-weight: normal;
+  }
+  h3{color: #E83A14;
+  }
+
+.bottom-cloud{position:absolute;
+  left:300px;
+  top:400px;
+}
+
+p{
+  line-height: 2;
+
+}
+
+.top-cloud{position:absolute;
+  right:500px;
+  top:50px;
+}
+
+.top-container{background-color: #FFBC80;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro{width:40%;
+  margin:auto;
+}
+
+hr{border-style: none;
+  border-color: #FFAD60;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+  margin: 100px auto;
+
+}
+
+.skill-image-1{border-radius: 100%;
+  width:50%;
+  height:250px;
+  float: left;
+  margin-right:30px;
+}
+
+.skill-image-2{border-radius: 100%;
+  width:50%;
+  height:250px;
+  float: right;
+  margin-right:30px;
+}
+
+.middle-container{
+  margin:80px 0;
+}
+
+
+.footer-link{ display:inline-block;
+  width: 100px;
+  color: #E83A14;
+  font-family: "Merriweather";
+  text-decoration: none;
+
+}
+
+.skill-row{
+width: 50%;
+margin:100px auto;
+text-align:left;
+line-height: 2;
+}
+
+.bottom-container{background-color: #FFBC80;
+  padding: 40px 0 0;
+
+}
+a:hover{color: #EAF6F6;
+
+}
+
+.btn {
+  margin-top: 30px;
+  background: #E83A14;
+  background-image: -webkit-linear-gradient(top, #E83A14, #E83A14);
+  background-image: -moz-linear-gradient(top, #E83A14, #E83A14);
+  background-image: -ms-linear-gradient(top, #E83A14, #E83A14);
+  background-image: -o-linear-gradient(top, #E83A14, #E83A14);
+  background-image: linear-gradient(to bottom, #E83A14, #E83A14);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 15px;
+  -webkit-box-shadow: 0px 0px 0px #666666;
+  -moz-box-shadow: 0px 0px 0px #666666;
+  box-shadow: 0px 0px 0px #666666;
+  font-family: Merriweather;
+  color: #f2f0ed;
+  font-size: 16px;
+  padding: 8px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F7F7F7;
+  text-decoration: none;
+  color: #E83A14;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copy-right{font-size: 0.75rem;
+  padding: 20px 0;
+}
